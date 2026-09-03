@@ -1,0 +1,22 @@
+{
+  "name": "electron_tutorials",
+  "version": "1.0.0",
+  "description": "My Electron Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rarnak/electron_tutorials.git"
+  },
+  "author": "Rarnak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rarnak/electron_tutorials/issues"
+  },
+  "homepage": "https://github.com/Rarnak/electron_tutorials#readme",
+  "devDependencies": {
+    "electron": "^44.1.1"
+  }
+}
