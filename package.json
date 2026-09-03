@@ -2,8 +2,9 @@
   "name": "electron_tutorials",
   "version": "1.0.0",
   "description": "My Electron Application",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
